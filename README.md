@@ -6,7 +6,7 @@ Paper link: https://arxiv.org/abs/2304.13979
 
 We test our code in Python 3.7, CUDA 11.1, cuDNN 8, and PyTorch 1.7.1. We provide `Dockerfile` to build the docker image we used. You can modify the `Dockerfile` as you want.  
 <div align=center>
-<img src="doc/network.png" width="900px"/>
+<img src="docs/overall.png" width="900px"/>
 </div>
 
 # Demo
@@ -87,7 +87,9 @@ If you use AMFNet in your academic work, please cite:
 ```
 
 # Demo
-<img src="doc/demo.png" width="700px"/>
+<div align=center>
+<img src="docs/results.jpg" width="900px"/>
+</div>
 
 # Acknowledgement
 Some of the codes are borrowed from [RTFNet](https://github.com/yuxiangsun/RTFNet)
