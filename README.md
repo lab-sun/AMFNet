@@ -19,9 +19,9 @@ We test our code in Python 3.7, CUDA 11.1, cuDNN 8, and PyTorch 1.7.1. We provid
 # Introduction
 AMFNet is a multi-modal fusion network for semantic segmentation of drivable road and negative obstacles.
 # Dataset
-We developed the [**NPO dataset**](https://ieeexplore.ieee.org/document/10114585/) to build our **DRNO dataset**. You can download the [**DRNO dataset**](https://pan.baidu.com/s/1qJ6FoBnRv5v0m1_xPYMumw) with the password **drno**. 
+We developed the [**NPO dataset**](https://ieeexplore.ieee.org/document/10114585/) to build our **DRNO dataset**. You can download the [**DRNO dataset**](https://pan.baidu.com/s/1ca5vx5QavXNewws9scPqRA?pwd=drno ). 
 # Pretrained weights
-The pretrained weight of AMFNet can be downloaded from [here](https://pan.baidu.com/s/1yLU_OCTztq6hcmMnY2GwfA) with the password **drno**.
+The pretrained weight of AMFNet can be downloaded from [**here**](https://pan.baidu.com/s/1ca5vx5QavXNewws9scPqRA?pwd=drno).
 # Usage
 * Clone this repo
 ```
