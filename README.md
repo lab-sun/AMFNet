@@ -75,15 +75,15 @@ Note: Please change the smoothing factor in the Tensorboard webpage to `0.999`, 
 # Citation
 If you use AMFNet in your academic work, please cite:
 ```
-@ARTICLE{feng2023amfnet,
+@INPROCEEDINGS{feng2023adaptive,
   author={Zhen Feng and Yuchao Feng and Yanning Guo and Yuxiang Sun},
-  journal={IEEE Intelligent Vehicles Symposium}, 
+  booktitle={2023 IEEE Intelligent Vehicles Symposium (IV)}, 
   title={Adaptive-Mask Fusion Network for Segmentation of Drivable Road and Negative Obstacle With Untrustworthy Features}, 
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={1-6},
+  doi={10.1109/IV55152.2023.10186628}}
 ```
 
 # Demo
